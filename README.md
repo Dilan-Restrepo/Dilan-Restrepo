@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Python and MySQL**
 
-- 📫 How to reach me **restrepodilan12@gmial.com or send message "+57 3507959799"**
+- 📫 How to reach me **restrepodilan12@gmail.com or send message "+57 3507959799"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
